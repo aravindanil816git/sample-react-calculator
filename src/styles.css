@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.result {
+  font-size: 20px;
+  padding: 10px;
+  border: 1px dashed #000;
+  margin-bottom: 10px;
+}
+
+button {
+  font-size: 14px;
+  height: 30px;
+  width: 30px;
+}
